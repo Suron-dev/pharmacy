@@ -1,11 +1,11 @@
 function Header() {
     return (
         <nav>
-            <a id="about" href="">درباره داروخانه</a>
-            <a id="doctor   " href="">معرفی پزشک</a>
-            <a id="services" href="">خدمات</a>
-            <a id="times" href="">ساعات کاری</a>
-            <a id="contact_us" href="">تماس با ما</a>
+            <a href="#about">درباره داروخانه</a>
+            <a href="#doctor">معرفی پزشک</a>
+            <a href="#services">خدمات</a>
+            <a href="#times">ساعات کاری</a>
+            <a href="#contact_us">تماس با ما</a>
         </nav>
     );
 }
